@@ -1,0 +1,5 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <button type="primary">按钮</button>
+    </view>
+</block>
